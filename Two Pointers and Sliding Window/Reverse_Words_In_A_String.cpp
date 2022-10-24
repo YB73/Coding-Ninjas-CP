@@ -9,7 +9,7 @@ string reverseString(string str){
         s++;
         e--;
     }
-    return str;
+    
 }
 int main(){
    string str;
